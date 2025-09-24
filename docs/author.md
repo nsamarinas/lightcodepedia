@@ -8,7 +8,7 @@ __Drop your photo here:__![tempImage3WN3ap](https://github.com/user-attachments/
 
 ![Me]()
 
-I'm Nikolas Samarinas, an undergraduate student of business administration based in Greece. I have a passion for food and travel.
+I'm Nikolas Samarinas, an undergraduate student in business administration at University of Macedonia in Greece. I have a passion for food and travel.
 
 # My journey
 My journey with Lightcode began when I applied for Lightcode Academy.
