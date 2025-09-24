@@ -4,7 +4,8 @@ _Please customize this page to introduce yourself to the Lightcode community._
 _Use Markdown syntax to format your text and add links, images, and other media._
 
 # About Me 
-__Drop your photo here:__
+__Drop your photo here:__![tempImage3WN3ap](https://github.com/user-attachments/assets/dd8d5d29-3271-4bb1-a24b-4033fcc6466d)
+
 ![Me]()
 
 I'm Nikolas Samarinas, an undergraduate student of business administration based in Greece. I have a passion for food and travel.
