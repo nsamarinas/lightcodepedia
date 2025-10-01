@@ -1,10 +1,7 @@
 # Welcome to my LightNode
 
-_Please customize this page to introduce yourself to the Lightcode community._
-_Use Markdown syntax to format your text and add links, images, and other media._
-
 # About Me 
-__![tempImage3WN3ap](https://github.com/user-attachments/assets/dd8d5d29-3271-4bb1-a24b-4033fcc6466d)
+![tempImage3WN3ap](https://github.com/user-attachments/assets/dd8d5d29-3271-4bb1-a24b-4033fcc6466d)
 
 ![Me]()
 
